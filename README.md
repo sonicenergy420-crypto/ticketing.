@@ -1,5 +1,5 @@
 # ticketing.
-the project all about selling ticket for events worldwide.
+the project is all about selling ticket for events worldwide.
 
 package.json
 
